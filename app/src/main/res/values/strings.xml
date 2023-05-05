@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mornhouse TEST</string>
+    <string name="title_main">Main Fragment</string>
+    <string name="title_detail">Fact Fragment</string>
+    <string name="get_fact">Отримати факт</string>
+    <string name="get_random_fact">Отримати факт про випадкове число</string>
+    <string name="error_enter">Ви не ввели число</string>
+</resources>
